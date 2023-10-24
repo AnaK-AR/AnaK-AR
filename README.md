@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana</h1>
+<h1 align="center">Hi 👋, I'm Ana :)</h1>
 <h3 align="center">A passionate full-stack developer from Mexico</h3>
 
 - 🌱 I’m currently learning **Linux, HTML**
