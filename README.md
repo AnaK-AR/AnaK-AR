@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ana :)</h1>
-<h3 align="center">A passionate full-stack developer from Mexico</h3>
+<h3 align="center">A passionate full-stack developer from Mexico 🇲🇽</h3>
 
 - 🌱 I’m currently learning **Linux, HTML**
 
 - 💬 Ask me about **Swift, C++, Node.js**
 
-- ⚡ Fun fact **I'm a huge swiftie**
+- ⚡ Fun fact **I'm a huge swiftie 🫶🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
